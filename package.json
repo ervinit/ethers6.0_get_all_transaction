@@ -1,0 +1,16 @@
+{
+  "name": "ether",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.4.0",
+    "registry.npmjs.org": "^1.0.1",
+    "tronweb": "^5.2.0"
+  }
+}
